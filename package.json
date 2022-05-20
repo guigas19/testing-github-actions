@@ -1,0 +1,22 @@
+{
+  "name": "testing-github-actions",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Tests running...\"",
+    "build": "echo \"Build running...\"",
+    "deploy": "echo \"Deploying new build to clound server...\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/guigas19/testing-github-actions.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/guigas19/testing-github-actions/issues"
+  },
+  "homepage": "https://github.com/guigas19/testing-github-actions#readme"
+}
